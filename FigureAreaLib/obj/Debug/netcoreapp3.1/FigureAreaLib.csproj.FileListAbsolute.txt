@@ -1,0 +1,10 @@
+C:\Users\NEGDANCHIK\source\repos\FigureAreaLib\FigureAreaLib\bin\Debug\netcoreapp3.1\FigureAreaLib.deps.json
+C:\Users\NEGDANCHIK\source\repos\FigureAreaLib\FigureAreaLib\bin\Debug\netcoreapp3.1\FigureAreaLib.dll
+C:\Users\NEGDANCHIK\source\repos\FigureAreaLib\FigureAreaLib\bin\Debug\netcoreapp3.1\FigureAreaLib.pdb
+C:\Users\NEGDANCHIK\source\repos\FigureAreaLib\FigureAreaLib\obj\Debug\netcoreapp3.1\FigureAreaLib.csproj.AssemblyReference.cache
+C:\Users\NEGDANCHIK\source\repos\FigureAreaLib\FigureAreaLib\obj\Debug\netcoreapp3.1\FigureAreaLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NEGDANCHIK\source\repos\FigureAreaLib\FigureAreaLib\obj\Debug\netcoreapp3.1\FigureAreaLib.AssemblyInfoInputs.cache
+C:\Users\NEGDANCHIK\source\repos\FigureAreaLib\FigureAreaLib\obj\Debug\netcoreapp3.1\FigureAreaLib.AssemblyInfo.cs
+C:\Users\NEGDANCHIK\source\repos\FigureAreaLib\FigureAreaLib\obj\Debug\netcoreapp3.1\FigureAreaLib.csproj.CoreCompileInputs.cache
+C:\Users\NEGDANCHIK\source\repos\FigureAreaLib\FigureAreaLib\obj\Debug\netcoreapp3.1\FigureAreaLib.dll
+C:\Users\NEGDANCHIK\source\repos\FigureAreaLib\FigureAreaLib\obj\Debug\netcoreapp3.1\FigureAreaLib.pdb
