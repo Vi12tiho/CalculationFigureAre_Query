@@ -76,22 +76,18 @@ namespace FigureAreaLib
             if (ab == bc && bc == ca)
             {
                 type = (int)FigureType.EquilateralTriangle;
-                Console.WriteLine("equil");
             }
             else if (Math.Pow(ca, 2) == Math.Pow(ab, 2) + Math.Pow(bc, 2))     // Теорема Пифагора
             {
                 type = (int)FigureType.RightTriangle;
-                Console.WriteLine("right");
             }
             else if (ab == bc || ab == ca || bc == ca)
             {
                 type = (int)FigureType.IsoscelesTriangle;
-                Console.WriteLine("isol");
             }
             else
             {
                 type = (int)FigureType.ScaleneTriangle;
-                Console.WriteLine("scale");
             }
 
             return type;
